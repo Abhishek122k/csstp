@@ -1,0 +1,19 @@
+* p{
+  text-align: center;
+}
+
+#html{
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 5px;
+}
+
+#css{
+  text-align: justify;
+  color: red;
+}
+
+#js{
+  color: green;
+  text-transform: capitalize;
+}
